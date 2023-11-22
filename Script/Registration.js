@@ -1,0 +1,6 @@
+register.addEventListener('click',checkRegistration)
+names.addEventListener('input',showName)
+email.addEventListener('input',showEmail)
+login.addEventListener('input',showLogin)
+password.addEventListener('input',showPassword)
+confirm_password.addEventListener('input',showConfirmPassword)

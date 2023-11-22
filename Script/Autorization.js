@@ -1,0 +1,1 @@
+autorization.addEventListener('click',Autorization)
